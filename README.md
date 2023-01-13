@@ -3,7 +3,6 @@
 [![Contato](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5598988920505)
 [![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/marcelobarbosafb@gmail.com)
 
-![marcelo GitHub stats](https://github-readme-stats.vercel.app/api?username=makerstoday&show_icons=true&theme=radical)
 
 ## Tecnologias que estou estudando e ultilizando!!
 
